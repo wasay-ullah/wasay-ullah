@@ -12,7 +12,6 @@
 ### 👨‍💻 About Me
 * 🌱 I’m currently pursuing a Bachelor of Science in Information Technology (BSIT).
 * 💻 I focus heavily on backend development and full-stack architecture, utilizing AI workflows for logic building and UI replication.
-* 🛠️ I build a variety of software—from offline C# Windows Forms Point-of-Sale systems to freelancing portfolios like TechBeats.
 * 🐧 I regularly explore Linux environments, command-line operations, and virtualization.
 * 📫 How to reach me: **wasayullahwaseem@gmail.com**
 
@@ -44,7 +43,7 @@
 ### 📊 GitHub Stats (Animated)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wasay-ullah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasayullah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
